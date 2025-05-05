@@ -16,9 +16,9 @@ Este projeto implementa um sistema de trading automatizado baseado em técnicas 
 ## 👥 Equipe: Data Investor´s
 
 - Robson Porto Rasmussen - Engenharia de Computação
-- Marney Samuell Araújo - Engenharia de controle e automação
+- Marney Samuell Araújo Valente Freitas - Engenharia de controle e automação
 - Jacion Antônio da Silva - Ciência de Dados
-- [Nome do Membro 4] - [Função/Curso]
+- Bruna Maria Grazielli Anapaz de Souza - Engenharia de produção
 
 ## 📂 Estrutura do Projeto
 
